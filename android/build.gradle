@@ -2,7 +2,7 @@ group 'com.ositano.flutter_3des'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '2.0.2'
+    ext.kotlin_version = '2.1.0'
     repositories {
         google()
         jcenter()
